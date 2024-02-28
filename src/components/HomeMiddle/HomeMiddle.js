@@ -90,7 +90,7 @@ const HomeMiddle = () => {
         </div>
 
         {/* viwe bid details */}
-        <div>
+        <div className="bid-view-datails-main">
           <BidViewDatails />
         </div>
         <hr className="hr-line" />
